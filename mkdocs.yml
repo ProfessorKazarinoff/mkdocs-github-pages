@@ -1,0 +1,4 @@
+site_name: Example MkDocs Site for Stream-2020
+
+theme:
+  name: material
